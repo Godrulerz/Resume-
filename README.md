@@ -1,4 +1,4 @@
-# Resume-# 
+# Resume-
 LaTeX Resume Template
 
 This repository provides a clean and professional LaTeX resume template, ideal for individuals looking to create a modern, well-structured resume.
